@@ -8,3 +8,5 @@ Aplicația va afișa  toate zborurile pentru acea destinație, ora plecării și
 3. Cumpărare. Angajatul poate cumpara bilete pentru clienți pentru o anumită destinație, la o anumită dată,
 respectiv oră de plecare.*
 4. Logout.
+
+Codul sursa se afla in master branch
