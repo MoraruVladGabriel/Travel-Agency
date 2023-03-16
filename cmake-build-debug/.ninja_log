@@ -1,0 +1,14 @@
+# ninja log v5
+16	446	7006967010856238	CMakeFiles/Project1.dir/Project1/RepositoryFileTXT.cpp.obj	f8d2f19c17923416
+6	822	7006967013199997	CMakeFiles/Project1.dir/Project1/RepositoryInMemory.cpp.obj	4ddf3199e9a253e8
+0	825	7006967014762502	CMakeFiles/Project1.dir/Project1/Bilet.cpp.obj	dfc084f620fad4dc
+50	840	7006967014918757	CMakeFiles/Project1.dir/Project1/User.cpp.obj	d851a838b4a4a74d
+60	1244	7006967018825018	CMakeFiles/Project1.dir/Project1/Utils.cpp.obj	4170bbad34d9a26d
+39	1246	7006967018981271	CMakeFiles/Project1.dir/Project1/UI.cpp.obj	846c88dc3a6d3ea8
+93	1290	7006967019606225	CMakeFiles/Project1.dir/Project1/Zbor.cpp.obj	99565c8b5ad0e54f
+22	1332	7006967020074979	CMakeFiles/Project1.dir/Project1/TestRepo.cpp.obj	ef5c846b6cf44836
+75	1429	7006967021012494	CMakeFiles/Project1.dir/Project1/App.cpp.obj	1ea7433fa94dba7d
+31	1597	7006967022731221	CMakeFiles/Project1.dir/Project1/Service.cpp.obj	26999c3b05842b92
+1597	1877	7006967025387528	Project1.exe	871bd873e3ffe6a5
+4	1069	7006974270520836	CMakeFiles/Project1.dir/Project1/App.cpp.obj	1ea7433fa94dba7d
+1070	1366	7006974273333380	Project1.exe	871bd873e3ffe6a5
